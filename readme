@@ -1,6 +1,6 @@
 # Smart Content Aggregator API
 
-A RESTful API for a content aggregation service with AI-powered features, built with TypeScript, Node.js, Express, and MongoDB.
+A RESTful API for a content aggregation service with AI-powered features, built with TypeScript, Node.js, Express, and MongoDB
 
 ##  Features
 
