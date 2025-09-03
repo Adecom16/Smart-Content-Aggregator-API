@@ -48,8 +48,6 @@ A RESTful API for a content aggregation service with AI-powered features, built 
                         └───────────────────┘    └────────────────────┘
 ```
 
-![Alt text](flow.png)
-
 ### Data Flow for Article Creation with AI Summary
 
 ```mermaid
