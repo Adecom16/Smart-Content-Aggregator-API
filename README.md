@@ -86,7 +86,7 @@ graph TD
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Adecom16/Smart-Content-Aggregator-API.git
    cd smart-content-aggregator
    ```
 
@@ -105,7 +105,7 @@ graph TD
    MONGODB_URI=mongodb://localhost:27017/content-aggregator
    NODE_ENV=development
    
-   # AI Provider API Keys (optional)
+   # AI Provider API Keys 
    OPENAI_API_KEY=your_openai_key
    HUGGINGFACE_API_KEY=your_huggingface_key
    COHERE_API_KEY=your_cohere_key
